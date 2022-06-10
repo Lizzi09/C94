@@ -1,0 +1,44 @@
+html, body
+{
+  height: 100%;
+  margin-left: 0px;
+  
+}
+
+body
+{
+background-image: url(R.png);
+}
+
+.header
+{
+	color: rgb(52, 202, 202);
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;margin-top: 80px;
+}
+#login_button
+{
+	width: 80%;
+    border-radius: 15px;
+    color: lightblue;
+    background-color: black;
+}
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+input{
+    background-color: black;
+    color: lightblue;
+  
+}
+#login_div{
+    margin-left: 500px;
+}
+h3{
+    color: aliceblue;
+}
+label{
+    color: aliceblue;
+}
